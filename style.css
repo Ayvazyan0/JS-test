@@ -9,4 +9,14 @@
 button{
     width: 10%;
     height: 10%;
+    color: white;
+    border: none;
+    background-color: black;
+}
+
+#text{
+    width: 30%;
+    height: 30%;
+    color: white;
+    margin: auto;
 }
